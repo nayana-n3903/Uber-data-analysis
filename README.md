@@ -1,0 +1,1 @@
+This repository contains a comprehensive analysis of uber's data ,exploring trends and leveraging publicly available dataset and advanced data analytics techniques,this project aims to provide actionable recommendations for Uber's growth and optimization
